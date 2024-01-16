@@ -20,3 +20,7 @@ I am a dedicated hobbyist developer, constantly exploring new opportunities for 
    </picture>
 </a>
 </p>
+
+<p align="right">
+   <a href='https://ko-fi.com/L4L7TEG3S' target='_blank'><img height='50' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
