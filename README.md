@@ -1,7 +1,7 @@
 <h3 align="center">Hello there 👋 </h3>
 
 <p align="center" style="padding: 50%">
-I am a dedicated hobbyist developer, constantly exploring new opportunities for growth and learning in application development. While being detail-orientated, my ambition is to continually refine my programming skills, striving for cleaner and more efficient code with each project.
+I am a hobbyist developer, constantly exploring new opportunities for growth and learning in application development. While being detail-orientated, my ambition is to continually refine my programming skills, striving for cleaner and more efficient code with each project.
 </p>
 
 <h2></h2>
