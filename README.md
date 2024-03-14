@@ -13,9 +13,3 @@
    </picture>
 </a>
 </p>
-
-<div align="right">
-    <a href="https://ko-fi.com/L4L7TEG3S">
-        <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
-    </a>
-</div>
